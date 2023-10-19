@@ -1,1 +1,4 @@
-hola mi nombre es steven martinez pelaez tengo 38 años, vivo en la ciudad de Cali, esto es una prueba
+hola mi nombre es steven martinez pelaez,
+Tengo 38 años, 
+Vivo en la ciudad de Cali, 
+Esto es una prueba de calidad.
