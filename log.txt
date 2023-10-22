@@ -1,0 +1,35 @@
+commit 1c9ee55709310fcbcc47bc890f08fdbd366eb67c
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Wed Oct 18 19:34:22 2023 -0500
+
+    Reemplazo de una version por otra de la historia
+
+commit de7143da706b7cdd6953973539bde167c438fdc9
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Wed Oct 18 19:22:53 2023 -0500
+
+    Ajuste de codigo txt Obra maestra
+
+commit 3b52434eafef94e73af900ac97c78563eabf4b71
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Wed Oct 18 19:21:30 2023 -0500
+
+    Ajuste de codigo txt
+
+commit 1d012c639f53b61b08b9858dbc2c48050d78d7b7
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Wed Oct 18 19:18:09 2023 -0500
+
+    Arranco proyecto real con html y css
+
+commit 9241f3a4814a99271790543f3424649e5c267d91
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Mon Oct 16 22:13:29 2023 -0500
+
+    update the date from steven martinez
+
+commit ba7a6267159a1aff3d690947e4b6b17158ee95e7
+Author: Steven Martinez Pelaez <stev2113@hotmail.com>
+Date:   Mon Oct 16 21:59:34 2023 -0500
+
+    First commit
